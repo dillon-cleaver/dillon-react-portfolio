@@ -1,19 +1,19 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'https://dilloncleaver.com',
+  title: 'DC.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Dillon Cleaver',
+  role: 'Software Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'Software Engineer specializing in TypeScript for React web and React Native mobile application projects.',
   resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/dillon-cleaver/',
+    github: 'https://github.com/cleadi',
   },
 }
 
@@ -21,28 +21,28 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'BioCoach',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Joined Secret Lab LLC and immediately began work on the BioCoach iOS/Android app.',
+    stack: ['Firebase', 'TypeScript', 'React Native', 'Redux'],
+    livePreview: 'https://biocoach.io/',
+    // sourceCode: 'https://github.com',
   },
   {
-    name: 'Project 2',
+    name: 'Unicorn Books',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Led wireframe designs and assisted with UX/UI design and Handlebars. Built out back-end routes using JavaScript, jQuery, Node.js, and Express.js',
+    stack: ['jQuery', 'Node', 'SQL', 'Express', 'Handlebars'],
+    sourceCode: 'https://github.com/Cygnet717/UnicornBooks',
+    livePreview: 'https://unicornbooks.herokuapp.com/',
   },
   {
-    name: 'Project 3',
+    name: 'Nextflix',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Led UX/UI design and wireframe designs for home page and favorites page. Responsible for HTML, CSS, Bootstrap, and implementing anime.js code.',
+    stack: ['HTML', 'CSS', 'JavaScript'],
+    sourceCode: 'https://github.com/cleadi/nextflix',
+    livePreview: 'https://cleadi.github.io/nextflix/',
   },
 ]
 
@@ -54,18 +54,18 @@ const skills = [
   'JavaScript',
   'TypeScript',
   'React',
+  'React Native',
   'Redux',
-  'SASS',
-  'Material UI',
+  'Node',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Firebase',
+  'MongoDB',
+  'VS Code',
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'cleadi@fastmail.com',
 }
 
 export { header, about, projects, skills, contact }
