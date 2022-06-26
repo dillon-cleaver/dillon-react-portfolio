@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cleadi/dillon-react-porfolio/static/css/main.f3beb914.chunk.css",
+    "main.js": "/cleadi/dillon-react-porfolio/static/js/main.971691c6.chunk.js",
+    "main.js.map": "/cleadi/dillon-react-porfolio/static/js/main.971691c6.chunk.js.map",
+    "runtime-main.js": "/cleadi/dillon-react-porfolio/static/js/runtime-main.4a9dfb6c.js",
+    "runtime-main.js.map": "/cleadi/dillon-react-porfolio/static/js/runtime-main.4a9dfb6c.js.map",
+    "static/js/2.f5288c40.chunk.js": "/cleadi/dillon-react-porfolio/static/js/2.f5288c40.chunk.js",
+    "static/js/2.f5288c40.chunk.js.map": "/cleadi/dillon-react-porfolio/static/js/2.f5288c40.chunk.js.map",
+    "index.html": "/cleadi/dillon-react-porfolio/index.html",
+    "static/css/main.f3beb914.chunk.css.map": "/cleadi/dillon-react-porfolio/static/css/main.f3beb914.chunk.css.map",
+    "static/js/2.f5288c40.chunk.js.LICENSE.txt": "/cleadi/dillon-react-porfolio/static/js/2.f5288c40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a9dfb6c.js",
+    "static/js/2.f5288c40.chunk.js",
+    "static/css/main.f3beb914.chunk.css",
+    "static/js/main.971691c6.chunk.js"
+  ]
+}
