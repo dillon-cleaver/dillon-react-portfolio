@@ -10,7 +10,7 @@ const about = {
   role: 'Software Engineer',
   description:
     'Software Engineer specializing in TypeScript for React web and React Native mobile application projects.',
-  resume: 'https://example.com',
+  // resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/dillon-cleaver/',
     github: 'https://github.com/cleadi',
