@@ -13,7 +13,7 @@ const about = {
   // resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/dillon-cleaver/',
-    github: 'https://github.com/dillon-secretlab',
+    github: 'https://github.com/dilloncleaver',
   },
 }
 
