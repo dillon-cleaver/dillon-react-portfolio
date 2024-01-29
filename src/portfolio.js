@@ -68,4 +68,4 @@ const contact = {
   email: 'cleadi@fastmail.com',
 }
 
-export { header, about, projects, skills, contact }
+export { header, about, skills, contact }
